@@ -1,4 +1,4 @@
-# graphJava
+# AbstractDataTypesJavaIG3
 Students: Mirona Birzaneanu and Tom Somerville Roberts
 Date: 30/03/2016
 Module: Concepts and Practice of Object Oriented Programming

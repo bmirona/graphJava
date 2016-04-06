@@ -1,2 +1,0 @@
-Main-Class: graph.TestGraph
-Class-Path: ./graph.jar
